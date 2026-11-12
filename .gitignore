@@ -1,0 +1,10 @@
+.DS_Store
+.build/
+dist/
+AppIcon.icns
+AppIcon.iconset/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Local handoff and debugging notes
+HANDOFF.md
